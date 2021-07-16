@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Bienvenido a mi Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+En este blog subire contenido sobre machine learning, AI y mucho más.
